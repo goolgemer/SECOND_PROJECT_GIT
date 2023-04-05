@@ -14,4 +14,7 @@
 * Grid
 * Адаптивная верстка (Медиазапросы)
 
+#### Cсылка на проект:
 
+* https://goolgemer.github.io/SECOND_PROJECT_GIT/
+ 
